@@ -1,7 +1,5 @@
 BBAI Coding Challenge: Pattern Matching Paths
 ==============================================
-Skills tested: Python, Git, Computer Science Fundamentals
--------------------
 
 Problem Description
 -------------------
