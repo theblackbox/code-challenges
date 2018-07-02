@@ -1,2 +1,2 @@
 # code-challenges
-Blackbox code challenges are an opportunity to demonstrate proficiency in the problem solving skills necessary to be a full-time contributor
+Blackbox code challenges provide an opportunity to demonstrate proficiency in the problem solving skills we use to assess individual skill level
