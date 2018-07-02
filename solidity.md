@@ -7,7 +7,7 @@ You've been given the below token smart contract. Your goal is to identify the v
 
 Submission Instructions:
 ------------
-Once completed, please create a new repository called "Blackbox - Hack The Token Contract" under your personal github account. Then email your interviewer a link to the new repo.
+Once completed, please create a new repository called "Blackbox Hack The Token Contract" under your personal github account. Then email your interviewer a link to the new repo.
 
 Submission Requirements
 -----------------------
