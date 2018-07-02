@@ -26,7 +26,7 @@ strings and two wildcards. It will successfully match the paths
 
 Submission Instructions:
 ------------
-Once completed, please create a new repository called "BBAI Python Pattern Matching"
+Once completed, please create a new repository called "Blackbox Python Pattern Matching"
 under your personal github account. Then email your interviewer a link to the new repo.
 
 
