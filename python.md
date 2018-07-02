@@ -1,4 +1,4 @@
-BBAI Coding Challenge: Pattern Matching Paths
+Blackbox Coding Challenge: Pattern Matching Paths
 ==============================================
 
 Problem Description
